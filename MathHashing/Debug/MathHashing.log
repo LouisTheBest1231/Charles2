@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\User\source\repos\MathHashing\main.cpp(19,16): warning C4244: 'initializing': conversion from '__int64' to 'long double', possible loss of data
+C:\Users\User\source\repos\MathHashing\main.cpp(21,9): warning C4244: 'return': conversion from 'long double' to '__int64', possible loss of data
+C:\Users\User\source\repos\MathHashing\main.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\MathHashing\main.cpp(58,30): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\source\repos\MathHashing\main.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+  MathHashing.vcxproj -> C:\Users\User\source\repos\MathHashing\Debug\MathHashing.exe
